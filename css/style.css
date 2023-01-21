@@ -111,10 +111,10 @@ font-family: 'Rufina', serif;
 body {
 	
 	font-size:14px;
-	color:#787878;
+	color:#ffffff;
 	line-height:1.6em;
 	font-weight:400;
-	background:#ffffff;
+	background:#000000;
 	-webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: antialiased;
 	font-family: 'Open Sans', sans-serif;
@@ -2645,7 +2645,7 @@ img{
 .services-section{
 	position:relative;
 	padding:85px 0px 60px;
-	background-color:#02256c;
+	background-color:#002d3c;
 }
 
 .services-section .title-box{
@@ -5416,9 +5416,6 @@ img{
 	margin-bottom:40px;
 }
 
-.sidebar-page-container .sidebar-side .sidebar{
-	
-}
 
 /* Services Detail */
 
@@ -7390,7 +7387,6 @@ img{
 }
 
 .product-details .basic-details .item-quantity .field-label{
-	float:left;
 	color:#242424;
 	font-weight:600;
 	font-size:18px;
@@ -8293,10 +8289,6 @@ img{
 }
 
 .shop-form select{
-	-webkit-appearance:none;
-	-ms-appearance:none;
-	-moz-appearance:none;
-	-o-appearance:none;
 	background:#ffffff url(../images/icons/icon-select.png) right center no-repeat;
 	cursor:pointer;
 }
